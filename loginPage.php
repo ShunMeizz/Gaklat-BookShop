@@ -24,7 +24,7 @@
                   setcookie('user_name', $_POST['user_name'], time()+(60*60*24));
                   setcookie('password', $_POST['password'], time()+(60*60*24));
                 }
-                header("Location: indexPage.php");
+                header("Location: index.php");
                 die;
               }
             }
