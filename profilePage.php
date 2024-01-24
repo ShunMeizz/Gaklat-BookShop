@@ -16,7 +16,7 @@
   </head>
   <body>
     <span class="header_text">User Profile</span>
-    <a href="indexPage.php#homeid" class="buttons button5">←</a>
+    <a href="index.php#homeid" class="buttons button5">←</a>
     <a href="logoutPage.php" class="buttons button4">LogOut</a>
     <div class="userprofile-container">
       <div class="user-card">
